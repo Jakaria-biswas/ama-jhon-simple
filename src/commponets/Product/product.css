@@ -1,0 +1,23 @@
+.product{
+    display:flex;
+   
+    border-bottom:1px solid #ddd;
+   
+    padding-bottom:50px;
+}
+.product-name{
+    
+    padding-left:20px;
+    
+}
+.product-name h4{
+    color:blue;
+    font-weight:400;
+}
+.main-button{
+    background-color:goldenrod;
+    width:120px;
+    height:30px;
+    border:1px solid grey;
+    border-radius:5px;
+}
